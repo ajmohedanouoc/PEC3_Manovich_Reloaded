@@ -10,7 +10,9 @@ Fecha:
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
-
+- Lista con -
+* lista con * 
+1. Elemento1  con 1.
 
 ## Planteamiento
 
