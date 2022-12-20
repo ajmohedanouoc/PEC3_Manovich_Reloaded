@@ -33,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC. 
 
 
 ----
