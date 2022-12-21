@@ -25,6 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <img src="/MemoAtken.jpg" width="400">
 
+[![Alt text](https://img.youtube.com/vi/qJjYiUOnqRE/0.jpg)](https://www.youtube.com/watch?v=qJjYiUOnqRE)
 
 ## Re-descubriendo la hibridacion: Radio Garden
 
