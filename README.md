@@ -87,6 +87,3 @@ Podríamos seleccionar las emisoras por medio de un menu en una página web y se
 * Wikipedia. *Radio Garden* [https://es.wikipedia.org/wiki/Radio_Garden](https://es.wikipedia.org/wiki/Radio_Garden)
 * Xataka. [*Este genial mapa interactivo permite viajar por el mundo a través de las radios locales*](https://www.xataka.com/aplicaciones/radio-garden-genial-mapa-interactivo-para-viajar-mundo-a-traves-radios-locales)
 
-----
-
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
