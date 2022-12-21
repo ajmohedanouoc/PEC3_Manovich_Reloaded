@@ -16,7 +16,7 @@ En esta actividad nos ponemos *“las gafas de Manovich”* y vamos a analizar d
 
 Los casos actuales seleccionados son:  
 •	El artista y profesor Memo Akten.  
-•	Radio Garden (una hibridación sobre Google Earth)
+•	Radio Garden
 
 El análisis de estos dos casos actuales de hibridación se realiza en torno a las definiciones o apuntes de lo que Manovich entiende por hibridación.  
 >“Se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones. (Manovich, 2013)”
@@ -29,6 +29,8 @@ El Artista **Memo Akten**, nacido en 1975 en Estambul y actualmente ejerce como 
 >“ Artista computacional que explora las tensiones entre ecología, tecnología, ciencia y espiritualidad; Estudiar inteligencia en la naturaleza, inteligencia en máquinas, percepción, conciencia, neurociencia, física y (filosofías de) espiritualidad, ritual y religión; Vaquero en Inteligencia Artificial; Amigo de las matemáticas curiosas; Simulaciones especulativas y dramatizaciones de datos; Doctorado en Inteligencia Artificial Creativa; Profesor asistente de Arte Computacional y diseño en la UCSD Visual Arts –Universidad de California de San Diego (Memo Akten 2022)”   
 
 <img src="/MemoAtken.jpg" width="400">  
+
+[*Fotografia por Jan Laurie*](https://www.memo.tv/headshots/) 
 
 Este creador, investigador y artista polifacético, combina muchas de las disciplinas tecnológicas, así como las matemáticas, la música, la interacción humana, el software, el hardware para crear una obra particular. 
 
@@ -54,6 +56,8 @@ Es un proyecto de investigación digital y de radio realizado en 2016 por varias
 [**Radio Garden**](https://radio.garden/)
 
 <img src="/radioGarden.png" width="400">
+
+[*Captura de pantalla de Radio Garden*](https://radio.garden/)
 
 En el globo del mundo nos podemos mover a cualquier país donde aparecen todas las emisoras de radio, cuando nos situamos encima de un punto verde instantáneamente escuchamos la emisora a *una velocidad pasmosa.*
 
