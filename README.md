@@ -75,7 +75,7 @@ Podríamos seleccionar las emisoras por medio de un menu en una página web y se
 ### Referencias y Bibliografía
 
 * Akten, Memo. [https://www.memo.tv/](https://www.memo.tv/)
-* ConfiguroWeb. [*Cómo colocar vídeo de Youtube en el archivo README en GitHub*](https://www.configuroweb.com/como-colocar-video-de-youtube-en-el-archivo-readme-en-github/){:target="_blank"} 
+* ConfiguroWeb. <a href="https://www.configuroweb.com/como-colocar-video-de-youtube-en-el-archivo-readme-en-github/" target="_blank" rel="noopener"><span>*Cómo colocar vídeo de Youtube en el archivo README en GitHub*</span> </a>
 * Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC. 
 * U2 ‘Invisible’ by Mark Romanek [https://www.u2songs.com/news/u2_invisible_by_mark_romanek ](https://www.u2songs.com/news/u2_invisible_by_mark_romanek) 
 * Wikipedia. *Memo Akten* [https://hmong.es/wiki/Memo_Akten](https://hmong.es/wiki/Memo_Akten)
